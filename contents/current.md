@@ -1,4 +1,6 @@
 ### Backbone (<i class="bi bi-box-arrow-right"></i> https://www.rbackbone.net/)
+![](https://www.r-pkg.org/badges/version/backbone?color=orange) ![](https://cranlogs.r-pkg.org/badges/grand-total/backbone?color=blue) ![](https://cranlogs.r-pkg.org/badges/last-month/backbone?color=green)
+
 When a network is weighted (e.g., the strength of friendship) or very dense (e.g., nearly everyone is friends), it can be difficult to visualize and analyze. In such cases, it can be helpful to focus on the network's _backbone_, an unweighted network that contains only the most "important" edges. My research on network backbones focuses on developing and comparing methods for identifying important edges (i.e., for extracting backbones), and on implementing these methods in the [**backbone** package for **R**](https://cran.r-project.org/package=backbone). This work has been supported by a series of grants from the US National Science Foundation ([#1851625](https://www.nsf.gov/awardsearch/show-award?AWD_ID=1851625), [#2016320](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2016320), [#2211744](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2211744)).
 
 Key publications:
@@ -12,6 +14,8 @@ Key publications:
 A network is a complex data object, and it can take many different forms. As a result, it can sometimes be difficult to describe fully and clearly in research. The **G**uidelines for **R**eporting **A**bout **N**etwork **D**ata (GRAND) are intended to promote transparency and clarity in network research by providing researchers, editors, and peer reviewers with guidance about how to describe network data. The information that must be provided in a given research article depends on many factors, including the research question(s), disciplinary expectations, and other contextual details. GRAND aims only to identify the *minimum* information that should *always* be provided about a network, and thus to establish a consistent baseline for reporting. The guidelines are being developed by a working group of 15 network scholars, in collaboration with the GRAND Consortium, with support from the US National Science Foundation ([Award 2348223](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2348223)).
 
 ### Childfree (<i class="bi bi-box-arrow-right"></i> https://www.thechildfree.org/)
+![](https://www.r-pkg.org/badges/version/childfree?color=orange) ![](https://cranlogs.r-pkg.org/badges/grand-total/childfree?color=blue) ![](https://cranlogs.r-pkg.org/badges/last-month/childfree?color=green)
+
 _Childfree_ adults do not have biological or adopted children, _and_ they do not want to have biological or adopted children. It is a large and growing population, comprising nearly [30% of all non-parents in the United States in 2023](https://doi.org/10.1111/jomf.13097), but remains understudied. This research uses quantitative demographic methods to track the prevalence of childfree individuals and their characteristics at the population level in the United States and beyond. To facilitate this research, it has also led to the development of the [**childfree** package for **R**](https://cran.r-project.org/package=childfree).
 
 Key publications:
