@@ -13,7 +13,7 @@ My urban research at the macro-scale was focused on world city networks, frequen
 
 * Neal, Z. P. (2011). From central places to network bases: a transition in the US urban hierarchy, 1900 – 2000. _City and Community, 10_, 49 – 74. https://doi.org/10.1111/j.1540-6040.2010.01340.x 
 
-* Neal, Z. (2012). Structural determinism in the interlocking world city network. _Geographical Analysis, 44_, 162-170. https://doi.org/10.1111/j.1538-4632.2012.00843.x
+* Neal, Z. P. (2012). Structural determinism in the interlocking world city network. _Geographical Analysis, 44_, 162-170. https://doi.org/10.1111/j.1538-4632.2012.00843.x
 
 * Neal, Z. P., Derudder, B., & van Meeteren, M. (2024). When is a matrix a geographical network?. _Annals of the American Association of Geographers, 114_, 1631-1638. https://doi.org/10.1080/24694452.2023.2271562
 
