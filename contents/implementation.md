@@ -1,0 +1,10 @@
+### Bridging Research and Practice
+The implementation of evidence-based programs requires communication between researchers and practitioners. However, there is a documented research-practice gap in multiple sectors including education, health, and the environment.  In my research, I'm interested in understanding how social networks can be leveraged to improve the transfer of evidence (especially research evidence) between researchers and practitioners and how social networks can facilitate or hinder the implementation of evidence-based practices.
+
+#### Key Publications
+* Neal, J.W. & Neal, Z.P. (2026). Network interventions to improve search and facilitate research-practice transfer. _Social Networks, 84_, 1-8. https://doi.org/10.1016/j.socnet.2025.07.007
+* Neal, J.W., Posner, S., & Brutzman, B. (2023). Understanding brokers, intermediaries, and boundary spanners: A multi-sectoral review of strategies, skills, and outcomes. _Evidence & Policy, 19(1)_, 95-115. https://doi.org/10.1332/174426421X16328416007542
+* Neal, J.W., Neal, Z.P., & Brutzman, B. (2022). Defining brokers, intermediaries, and boundary spanners: A systematic review. _Evidence & Policy, 18(1)_, 7-24. https://doi.org/10.1332/174426420X16083745764324
+* Neal, J.W., Neal, Z.P., Mills, K.J., Lawlor, J.A., & McAlindon, K. (2019). What types of brokerage bridge the research-practice gap? The case of public school educators. _Social Networks, 59_, 41-49. https://doi.org/10.1016/j.socnet.2019.05.006
+* Neal, J.W. & Neal, Z.P. (2019). Implementation capital: Merging frameworks of implementation outcomes and social capital to support the use of evidence-based practices. _Implementation Science, 14_, 16. https://doi.org/10.1186/s13012-019-0860-z
+* Neal, J.W., Neal, Z.P., Lawlor, J.A., Mills, K.J., & McAlindon, K. (2018). What makes research useful for public school educators? _Administration and Policy in Mental Health and Mental Health Services Research,  45(3)_, 432-446. https://doi.org/10.1007/s10488-017-0834-x
