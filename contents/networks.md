@@ -5,7 +5,7 @@ I am interested in advancing improving methods for network data collection and a
 * Neal, Z.P., Neal, J.W., Cappella, E., & Dockerty, M. (in press).  Selecting key opinion leaders under practical challenges. _Network Science_.
 * Neal, J.W. (2024). Methodological moderators of average outdegree centrality: A meta-analysis of child and adolescent friendship networks. _Network Science, 2_, 107-121. https://doi.org/10.1017/nws.2024.2
 * Neal, J.W., & Neal, Z.P. (2022). Collecting, modeling, and visualizing network data from educators: A tutorial. _School Psychology, 37(6)_, 434 – 444.  https://doi.org/10.1037/spq0000479
-* Neal, J.W., Neal, Z.P., & Durbin C.E. (2022). Inferring signed networks from preschoolers’ observed parallel and social play. _Social Networks, 71_, 80 – 86.
+* Neal, J.W., Neal, Z.P., & Durbin C.E. (2022). Inferring signed networks from preschoolers’ observed parallel and social play. _Social Networks, 71_, 80 – 86. https://doi.org/10.1016/j.socnet.2022.07.002
 * Neal, Z.P., & Neal, J.W. (2022). That’ll move the chains: Collecting network chain data. _Social Networks, 69_, 35-44. https://doi.org/10.1016/j.socnet.2019.10.007
 * Neal, J.W. (2020). A systematic review of social network methods in high impact developmental psychology journals. _Social Development, 29_, 923-944. https://doi.org/10.1111/sode.12442
 
@@ -27,3 +27,4 @@ Some of my research has focused on using cognitive social structures to examine 
 * Neal, J.W., Neal, Z.P., & Cappella, E. (2016). Seeing and being seen: Predictors of accurate perceptions about classmates’ relationships. _Social Networks, 44_, 1-8.  https://doi.org/10.1016/j.socnet.2015.07.002.
 * Neal, J.W., Neal, Z.P., & Cappella, E. (2014). I know who my friends are, but do you? Predictors of self-reported and peer-inferred relationships. _Child Development, 85(4)_, 1366-1372. https://doi.org/10.1111/cdev.12194
 * Neal, J.W., Cappella, E., Wagner, C., & Atkins, M.S. (2011). Seeing eye to eye: Predicting teacher-student agreement on classroom social networks. _Social Development, 20(2)_, 376-393. https://doi.org/10.1111/j.1467-9507.2010.00582.x
+
